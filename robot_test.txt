@@ -1,1 +1,0 @@
-binarycreator -c config/config.xml -r resources/robot.qrc -p packages HR_Robot_Box.exe -v
